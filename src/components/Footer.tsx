@@ -61,8 +61,12 @@ export function Footer() {
                 <span className="font-mono text-xs">07AAQCM5872R1ZB</span>
               </li>
               <li>
+                <span className="text-faint">CIN:</span>{" "}
+                <span className="font-mono text-xs">U72900DL2023PTC410249</span>
+              </li>
+              <li>
                 <span className="text-faint">Address:</span>{" "}
-                <span className="text-xs">Dwarka, New Delhi</span>
+                <span className="text-xs">Sector-8, Dwarka, New Delhi - 110077</span>
               </li>
             </ul>
           </div>
