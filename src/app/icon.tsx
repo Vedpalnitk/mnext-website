@@ -19,14 +19,14 @@ export default function Icon() {
       >
         <span
           style={{
-            fontSize: 14,
+            fontSize: 20,
             fontWeight: 700,
             color: "#00e5a0",
             fontFamily: "sans-serif",
-            letterSpacing: -0.5,
+            letterSpacing: -1,
           }}
         >
-          {"<m>"}
+          M
         </span>
       </div>
     ),
